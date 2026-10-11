@@ -39,7 +39,7 @@ Source material comes from [ITALERT](https://github.com/mcstaiano/ITALERT), a bi
 | Variant | SIREN-span | SIREN-msg |
 | Language pair | Italian → English | English → French |
 | Systems | ChatGPT-4o, Google Translate | TranslateGemma-4B, Google Translate |
-| Roll-out size | 200 + 206 HOPE error instances | 191 messages per system |
+| Roll-out size | 393 HOPE error instances | 382 messages |
 | Extra output | | Post-edited French reference translations |
 
 

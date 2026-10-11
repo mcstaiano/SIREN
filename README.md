@@ -2,7 +2,7 @@
 
 Human evaluation framework, annotations and resources for assessing whether machine-translated emergency messages **preserve the actionability of their source**.
 
-> Staiano, M. C., Han, L., Monti, J., & Chiusaroli, F. (2026). *SIREN: Situation-aware Index for Response and Emergency ActioNability in Crisis Translation.* LT4CPR Workshop at AACL-2026. `TODO: link / DOI`
+> Staiano, M. C., Han, L., Monti, J., & Chiusaroli, F. (2026). *SIREN: Situation-aware Index for Response and Emergency ActioNability in Crisis Translation.* LT4CPR Workshop at AACL-2026. 
 
 ## What is SIREN?
 

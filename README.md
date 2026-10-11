@@ -61,6 +61,3 @@ If you use the Italian–English corpus, please also cite ITALERT (Staiano et al
 
 This work was partially supported by the PhD Programme in Humanities and Technologies funded by the University of Macerata under D.R. No 253/2023, and by the HumanAI Cluster at the Leiden Institute of Advanced Computer Science (LIACS), Leiden University.
 
-## Contact
-
-`TODO: name and email`
